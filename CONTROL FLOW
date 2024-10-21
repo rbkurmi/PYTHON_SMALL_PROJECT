@@ -1,0 +1,20 @@
+Control Flow
+If-else: Decision making.
+Loops: for loop AND while loop WORK.
+
+# If-else
+num = 10
+if num > 5:
+    print("Number is greater than 5")
+else:
+    print("Number is less than or equal to 5")
+
+# For loop
+for i in range(5):
+    print(i)
+
+# While loop
+counter = 0
+while counter < 3:
+    print("Counter:", counter)
+    counter += 1

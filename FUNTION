@@ -1,0 +1,16 @@
+ Functions:
+ Function creation: Python-e function define easy.
+Parameters: Functions values receive .
+Return values: Functions TO result back .
+Lambda functions: Short-hand function style.
+
+# Regular function
+def greet(name):
+    return "Hello, " + name
+
+# Calling the function
+print(greet("Alice"))
+
+# Lambda function (short function)
+double = lambda x: x * 2
+print(double(5))  # Output: 10

@@ -1,0 +1,7 @@
+# Variables and data types
+x = 10         # int
+y = 3.14       # float
+name = "John"  # string
+numbers = [1, 2, 3]  # list
+unique_numbers = {1, 2, 3}  # set
+person = {"name": "John", "age": 25}  # dictionary
